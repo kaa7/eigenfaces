@@ -1,2 +1,1 @@
-# eigenfaces
-Face recognition using eigenfaces
+# Face recognition using eigenfaces
